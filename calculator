@@ -15,4 +15,4 @@ elif (o=="/"):
 elif (o=="*"):
     print (a*b)
 else :
-    print ("invalid operator")
+    print (f"{o} is invalid")

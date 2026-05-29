@@ -17,6 +17,7 @@ This repository serves as a personal log of the concepts I learn. Every file her
 * Python
 * Git & GitHub
 * VS Code
+* mySQL
 
 ## Notes
 
